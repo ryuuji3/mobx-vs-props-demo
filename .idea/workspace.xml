@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectId" id="1ar8U0AiU0ms9r3IPa07laBP0go" />
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="nodejs_interpreter_path" value="wsl://UBUNTU@/home/ryuuji3/.nvm/versions/node/v12.16.1/bin/node" />
+  </component>
+</project>
