@@ -15,7 +15,7 @@ function App() {
     <div className="App">
       <PropBasedDemo locations={locations} />
       <hr />
-      <ObservableDemo />
+      <ObservableDemo locations={locations} />
     </div>
   );
 }
